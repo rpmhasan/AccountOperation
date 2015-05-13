@@ -1,0 +1,9 @@
+E:\Rupam's Works\02.05\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe.config
+E:\Rupam's Works\02.05\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe
+E:\Rupam's Works\02.05\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.pdb
+E:\Rupam's Works\02.05\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csprojResolveAssemblyReference.cache
+E:\Rupam's Works\02.05\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.AccountOperationUI.resources
+E:\Rupam's Works\02.05\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.Properties.Resources.resources
+E:\Rupam's Works\02.05\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csproj.GenerateResource.Cache
+E:\Rupam's Works\02.05\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.exe
+E:\Rupam's Works\02.05\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.pdb
